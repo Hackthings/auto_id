@@ -12,7 +12,7 @@
 <li>Media alerts</il>
 </ol>
 
-<i>Disclaimer: We do not encourage teams to investigate known illegal activity or suspected individuals. 
+<i>Disclaimer: We do not encourage teams to investigate known illegal activity or suspected individuals.</i>
 
 <b>Project #2:</b> Create a database platform that automatically syncs to known relationship tracking systems (i.e., Salesforce) for comprehensive data management. 
 
